@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHElectronicsInventory", "MHElectronicsInventory\MHElectronicsInventory.csproj", "{98555CAC-BE31-46DA-AF5F-0024D302A68A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Inventory", "Inventory\Inventory.vdproj", "{E2A8219F-E884-4F06-A3FD-E751ED99D01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98555CAC-BE31-46DA-AF5F-0024D302A68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98555CAC-BE31-46DA-AF5F-0024D302A68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98555CAC-BE31-46DA-AF5F-0024D302A68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98555CAC-BE31-46DA-AF5F-0024D302A68A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2A8219F-E884-4F06-A3FD-E751ED99D01E}.Debug|Any CPU.ActiveCfg = Debug
+		{E2A8219F-E884-4F06-A3FD-E751ED99D01E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

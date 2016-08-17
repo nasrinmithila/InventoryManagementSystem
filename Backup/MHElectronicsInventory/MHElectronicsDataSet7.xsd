@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="MHElectronicsDataSet7" targetNamespace="http://tempuri.org/MHElectronicsDataSet7.xsd" xmlns:mstns="http://tempuri.org/MHElectronicsDataSet7.xsd" xmlns="http://tempuri.org/MHElectronicsDataSet7.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="MHElectronicsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="MHElectronicsConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.MHElectronicsInventory.Properties.Settings.GlobalReference.Default.MHElectronicsConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="View_1TableAdapter" GeneratorDataComponentClassName="View_1TableAdapter" Name="View_1" UserDataComponentName="View_1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="MHElectronicsConnectionString (Settings)" DbObjectName="MHElectronics.dbo.View_1" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Model_Name, Number FROM dbo.View_1</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Model_Name" DataSetColumn="Model_Name" />
+              <Mapping SourceColumn="Number" DataSetColumn="Number" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="MHElectronicsDataSet7" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="MHElectronicsDataSet7" msprop:Generator_UserDSName="MHElectronicsDataSet7" msprop:EnableTableAdapterManager="True">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="View_1" msprop:Generator_UserTableName="View_1" msprop:Generator_RowDeletedName="View_1RowDeleted" msprop:Generator_TableClassName="View_1DataTable" msprop:Generator_RowChangedName="View_1RowChanged" msprop:Generator_RowClassName="View_1Row" msprop:Generator_RowChangingName="View_1RowChanging" msprop:Generator_RowEvArgName="View_1RowChangeEvent" msprop:Generator_RowEvHandlerName="View_1RowChangeEventHandler" msprop:Generator_TablePropName="View_1" msprop:Generator_TableVarName="tableView_1" msprop:Generator_RowDeletingName="View_1RowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Model_Name" msprop:Generator_UserColumnName="Model_Name" msprop:Generator_ColumnPropNameInRow="Model_Name" msprop:Generator_ColumnVarNameInTable="columnModel_Name" msprop:Generator_ColumnPropNameInTable="Model_NameColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Number" msprop:Generator_UserColumnName="Number" msprop:Generator_ColumnPropNameInRow="Number" msprop:Generator_ColumnVarNameInTable="columnNumber" msprop:Generator_ColumnPropNameInTable="NumberColumn" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

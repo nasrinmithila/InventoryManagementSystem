@@ -1,0 +1,26 @@
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Form1.resources
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmDaily.resources
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmStock.resources
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Properties.Resources.resources
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.csproj.GenerateResource.Cache
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\bin\Debug\MHElectronicsInventory.exe
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\bin\Debug\MHElectronicsInventory.pdb
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.exe
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.pdb
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\bin\Debug\MHElectronicsInventory.exe.config
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmReport.resources
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmUpdatedStock.resources
+C:\Users\MITHILA\Documents\Visual Studio 2008\Projects\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmTransaction.resources
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\bin\Debug\MHElectronicsInventory.exe.config
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.exe
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.pdb
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.csprojResolveAssemblyReference.cache
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Form1.resources
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmDaily.resources
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmReport.resources
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmStock.resources
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmTransaction.resources
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Presentation.frmUpdatedStock.resources
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.Properties.Resources.resources
+C:\Users\NasrinHakim\Documents\MHElectronicsInventory\MHElectronicsInventory\obj\Debug\MHElectronicsInventory.csproj.GenerateResource.Cache
